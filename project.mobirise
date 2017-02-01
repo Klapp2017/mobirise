@@ -171,7 +171,7 @@
             "showButtons": false
           },
           "title": "LES 10 MINUTES",
-          "text": "<span style=\"font-style: normal;\">DIX MINUTES, C’EST JUSTE LE TEMPS QU'IL TE FAUT&nbsp;</span><br><span style=\"font-style: normal;\">POUR DÉBRIEFER SUR TES SÉRIES PRÉFÉRÉES.</span><br>",
+          "text": "<span style=\"font-style: normal;\">DIX MINUTES, C’EST JUSTE LE TEMPS QU'IL FAUT&nbsp;</span><br><span style=\"font-style: normal;\">POUR DÉBRIEFER SUR TES SÉRIES PRÉFÉRÉES.</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÉLÉCHARGER KLAPP</a>",
           "_styles": {
             ".mbr-section-lead": {
