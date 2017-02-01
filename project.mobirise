@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 44,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -81,7 +81,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#f11b4d!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -126,13 +126,13 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-z\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-g\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-n\">Stranger Things</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form2-11\">SOUSCRIRE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-z\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-g\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-n\">Sortie séries</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form2-11\">SOUSCRIRE</a></li>"
         },
         {
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -168,11 +168,17 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "LES 10 MINUTES",
-          "text": "10 MINUTES, C’EST CE QU’IL RESTE DE TON TEMPS LIBRE GRÂCE À L’APPLICATION DES COMPARATEURS DE FILMS KLAPP !&nbsp;<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÉLÉCHARGER L'APPLICATION</a>"
+          "text": "<span style=\"font-style: normal;\">DIX MINUTES, C’EST JUSTE LE TEMPS QU'IL TE FAUT&nbsp;</span><br><span style=\"font-style: normal;\">POUR DÉBRIEFER SUR TES SÉRIES PRÉFÉRÉES.</span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÉLÉCHARGER KLAPP</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -181,7 +187,9 @@
               "color": "#f11b4d"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-lead SPAN": {
               "text-align": "center"
@@ -209,17 +217,30 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Des idées, chaque jour",
-          "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées, on écrit des articles pour combler ces 10 dernières minutes qu'il te reste avec Klapp.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+          "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées, on écrit des articles pour combler ces 10 dernières minutes qu'il te reste.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÉLÉCHARGER L'APPLICATION KLAPP</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "features1-f",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -331,12 +352,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -354,7 +370,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/eleven-stranger-things-retour-saison-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/santaclaritadiet-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -368,8 +384,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Stranger Things : Eleven la fille de Hopper ?&nbsp;",
-          "text": "<p>La théorie qui affole le web !</p>",
+          "title": "QUE VAUT LA SÉRIE NETFLIX \"SANTA CLARITA DIET\" ?&nbsp;",
+          "text": "<p>Drew Barrymore en zombie dans le trailer de cette nouvelle comédie &nbsp;!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -383,7 +399,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Maintenant que la saison 1 de Stranger Things finie, les théories vont bon train sur le web. </p><p>L'une d'entre elles voudrait que Eleven soit la fille de Hopper.</p></blockquote>"
+          "text": "<blockquote><p></p><p></p><p><b>Drew Barrymore et Timothy Olyphant tiendront les premiers rôles de cette savoureuse comédie horrifique lancée le 3 février sur Netflix. Premier aperçu du trailer de Santa Clarita Diet.</b></p></blockquote>",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -396,7 +418,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Même si Netflix n'a toujours pas renouvelé Stranger Things pour une saison 2, les théories vont déjà bon train sur la suite de la série. Il faut dire que les frères Duffer, créateurs du show, se prêtent bien au jeu ! Ils ont d'ores et déjà annoncé qu'ils avaient de grandes ambitions pour leur série, et ont déjà donné quelques éléments sur lesquels la saison 2 devrait se concentrer. Evidemment, tout cela alimente beaucoup les théories de fans, qui s'en donnent à coeur joie ! Parmi les mystères sur laquelle la saison 2 pourrait revenir, il y a bien sûr l'identité du personnage d'Eleven, cette petite fille élevée dans un laboratoire et dont le cerveau a fait l'objet de nombreux tests éprouvants ayant fragilisé la personnalité de l'enfant. La saison 1 de Stranger Things se termine sur la disparition d'Eleven, tandis que l'on avait appris peu de temps avant les raisons de la mort de la fille de Hopper, le chef de la police. D'où une théorie populaire qui voudrait qu'Eleven soit en réalité la fille de Hopper.</p><p><br></p><p><br></p>"
+          "text": "<p>Exit les zombies terrifiants et lobotomisés de The Walking Dead ! Après Les désastreuses aventures des orphelins Baudelaire le week-end dernier, Netflix lancera dans quelques semaines Santa Clarita Diet, une comédie complétement barrée qui nous tente plutôt bien. On entend parler de la série depuis plusieurs mois déjà mais on en sait enfin plus sur ce projet un peu fou (et totalement dégueulasse) réunissant deux acteurs de renoms : Drew Barrymore et Timothy Olyphant. Dans Santa Clarita Diet, les deux stars prêtent leurs traits à un couple d'agents immobiliers coulant des jours paisibles dans un quartier pavillonnaire américain. </p><p><br></p><p>Boring ? Pas si vite ! Drew Barrymore (aka Sheila Hammond) est une zombie et clairement, elle a les crocs ! Plutôt que de flipper et partir loin, très loin de Santa Clarita, son cher et tendre Joel (Timothy Olyphant) décide de la soutenir. Pire encore, il l'aide à subvenir à ses besoins (entendez à trouver de la chair fraîche). Il en résulte bien évidemment des situations complétement tarées et loufoques qui nous offrent enfin un show original et hilarant sur nos amis les zombies. Santa Clarita Diet, ça commence le 3 février prochain sur Netflix ! Et en attendant, demandez le programme de janvier ! On sera au rendez-vous, et vous ?</p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -404,7 +426,9 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#a0a0a0",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
@@ -413,7 +437,7 @@
           "_name": "form2",
           "_anchor": "form2-11",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -431,7 +455,7 @@
           "form": {
             "action": "eugeniecorneille@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form !"
             },
             "fields": {
               "email": {
@@ -466,7 +490,7 @@
           "_anchor": "msg-box3-14",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -530,6 +554,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "2",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -539,14 +567,20 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": "2",
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "CE QUE L'ON PENSE DE NOUS",
-          "subtitle": "Car nos utilisateurs sont fantastiques et nous laissent des mots tout doux."
+          "subtitle": "Car nos utilisateurs sont fantastiques et nous laissent des mots tout doux.",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".card-block P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         }
       ]
     }
