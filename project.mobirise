@@ -507,7 +507,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "<span style=\"font-weight: normal;\">PLUS QUE 2 JOURS<br>pour profiter du pack</span> <i>Westworld </i><span style=\"font-weight: normal;\">!</span>",
+          "title": "<span style=\"font-weight: normal;\">PLUS QUE 2 JOURS</span><br><span style=\"font-weight: normal;\">pour profiter du pack</span> <i>Westworld</i>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
