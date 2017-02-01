@@ -437,7 +437,7 @@
           "_name": "form2",
           "_anchor": "form2-11",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -490,7 +490,7 @@
           "_anchor": "msg-box3-14",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
