@@ -221,7 +221,7 @@
             "showButtons": false
           },
           "title": "Une idée série par&nbsp;jour",
-          "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées,&nbsp;on écrit des&nbsp;avis sur les films &amp; séries pour 10 minutes de ton temps libre.<br>",
+          "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées,&nbsp;on écrit des&nbsp;avis sur les films &amp; séries pour 10 minutes de ton temps libre.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">T'AS PAS KLAPP ?</a>"
         },
         {
@@ -512,7 +512,7 @@
             "showSubTitle": true
           },
           "title": "SOUSCRIRE",
-          "subtitle": "Tu t'ennuies ? Écris-nous ton email",
+          "subtitle": "Tu t'ennuies ? Écris-nous ton email et reçois notre pack en exclusivité !",
           "form": {
             "action": "eugeniecorneille@gmail.com",
             "alerts": {
