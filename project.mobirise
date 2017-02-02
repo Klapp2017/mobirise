@@ -516,7 +516,7 @@
           "form": {
             "action": "eugeniecorneille@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form !"
+              "success": "Surprise dans ta boîte mail !"
             },
             "fields": {
               "email": {
