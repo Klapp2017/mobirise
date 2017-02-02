@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 47,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-z\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-g\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-n\">Sortie séries</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form2-11\">SOUSCRIRE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-z\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-g\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-n\">Sortie séries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-18\">Nos théories</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form2-11\">SOUSCRIRE</a></li>"
         },
         {
           "_name": "footer1",
@@ -419,7 +419,67 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Exit les zombies terrifiants et lobotomisés de The Walking Dead ! Après Les désastreuses aventures des orphelins Baudelaire le week-end dernier, Netflix lancera dans quelques semaines Santa Clarita Diet, une comédie complétement barrée qui nous tente plutôt bien. On entend parler de la série depuis plusieurs mois déjà mais on en sait enfin plus sur ce projet un peu fou (et totalement dégueulasse) réunissant deux acteurs de renoms : Drew Barrymore et Timothy Olyphant. Dans Santa Clarita Diet, les deux stars prêtent leurs traits à un couple d'agents immobiliers coulant des jours paisibles dans un quartier pavillonnaire américain. </p><p><br></p><p>Boring ? Pas si vite ! Drew Barrymore (aka Sheila Hammond) est une zombie et clairement, elle a les crocs ! Plutôt que de flipper et partir loin, très loin de Santa Clarita, son cher et tendre Joel (Timothy Olyphant) décide de la soutenir. Pire encore, il l'aide à subvenir à ses besoins (entendez à trouver de la chair fraîche). Il en résulte bien évidemment des situations complétement tarées et loufoques qui nous offrent enfin un show original et hilarant sur nos amis les zombies. Santa Clarita Diet, ça commence le 3 février prochain sur Netflix ! Et en attendant, demandez le programme de janvier ! On sera au rendez-vous, et vous ?</p><p><br></p><p><br></p>"
+          "text": "<p>Exit les zombies terrifiants et lobotomisés de The Walking Dead ! Après Les désastreuses aventures des orphelins Baudelaire le week-end dernier, Netflix lancera dans quelques semaines Santa Clarita Diet, une comédie complétement barrée qui nous tente plutôt bien. On entend parler de la série depuis plusieurs mois déjà mais on en sait enfin plus sur ce projet un peu fou (et totalement dégueulasse) réunissant deux acteurs de renoms : Drew Barrymore et Timothy Olyphant. Dans Santa Clarita Diet, les deux stars prêtent leurs traits à un couple d'agents immobiliers coulant des jours paisibles dans un quartier pavillonnaire américain. </p><p><br></p><p>Boring ? Pas si vite ! Drew Barrymore (aka Sheila Hammond) est une zombie et clairement, elle a les crocs ! Plutôt que de flipper et partir loin, très loin de Santa Clarita, son cher et tendre Joel (Timothy Olyphant) décide de la soutenir. Pire encore, il l'aide à subvenir à ses besoins (entendez à trouver de la chair fraîche). Il en résulte bien évidemment des situations complétement tarées et loufoques qui nous offrent enfin un show original et hilarant sur nos amis les zombies. Santa Clarita Diet, ça commence le 3 février prochain sur Netflix ! Et en attendant, demandez le programme de janvier ! On sera au rendez-vous, et vous ?</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-18",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dolores-waking-up-westworld-episode-three-2000x1125.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "WESTWORLD<br>L'UNE DES FOLLES THÉORIES",
+          "text": "<p>Attention, spoiler !</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Les fans se posent beaucoup de questions sur les mystères qui entourent la série HBO Westworld. Il est temps de vous faire un point sur ce que l'on considère comme l'une des meilleures théories.&nbsp;</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Elle concerne William, l'un des derniers arrivants du parc. Contrairement à son beau-frère, il décide d'incarner un gentil, le parfait petit shérif de la ville. Mais dans le futur, il pourrait devenir tout l'inverse. En effet, certains fans pensent que William est en réalité l'homme en noir. Toutes les scènes le concernant se situeraient donc 30 ans en arrière. Plusieurs indices viennent renforcer cette théorie. Premièrement, lorsque Logan et William arrivent dans le parc, le logo de Westworld est un peu différent de celui que l'on connaît. Il a un côté un peu rétro et il n'a pas les deux barres. Ensuite, la gare semble en meilleur état que dans le 1er épisode. Pour finir, Teddy n'est pas dans le train que prend les deux personnages. On peut donc imaginer que sa journée débute par une autre scène que celle de son scénario présent. On apprendrait alors comment le parc aurait transformé William au cours de ces années.&nbsp;</p><p><br></p>"
         },
         {
           "_styles": {
