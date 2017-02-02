@@ -218,7 +218,7 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Une idée série par&nbsp;jour",
           "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées,&nbsp;on écrit des&nbsp;avis sur les films &amp; séries pour 10 minutes de ton temps libre.<br><br>",
