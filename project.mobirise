@@ -189,7 +189,8 @@
             ".mbr-section-lead": {
               "color": "#9c9a9a",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "24px"
             },
             ".mbr-section-lead SPAN": {
               "text-align": "center"
@@ -219,9 +220,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Des idées, chaque jour",
-          "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées, on écrit des articles pour combler ces 10 dernières minutes qu'il te reste.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TÉLÉCHARGER L'APPLICATION KLAPP</a>"
+          "title": "Une idée série par&nbsp;jour",
+          "text": "Tu étais habitué à te coucher directement après ton épisode ? Nous, on te donne des idées et on écrit des&nbsp;avis sur les séries pour les 10 dernières minutes de ton temps libre.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://get.alertfilm.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TU CONNAIS KLAPP ?</a>"
         },
         {
           "_tags": [
@@ -384,8 +385,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "QUE VAUT LA SÉRIE NETFLIX \"SANTA CLARITA DIET\" ?&nbsp;",
-          "text": "<p>Drew Barrymore en zombie dans le trailer de cette nouvelle comédie &nbsp;!</p>",
+          "title": "NOTRE AVIS SUR LA SÉRIE \"SANTA CLARITA DIET\"&nbsp;",
+          "text": "<p>Drew Barrymore en zombie dans la nouvelle création Netflix !</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -399,7 +400,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p></p><p></p><p><b>Drew Barrymore et Timothy Olyphant tiendront les premiers rôles de cette savoureuse comédie horrifique lancée le 3 février sur Netflix. Premier aperçu du trailer de Santa Clarita Diet.</b></p></blockquote>",
+          "text": "<blockquote><p></p><p></p><p><b>Drew Barrymore et Timothy Olyphant tiendront les premiers rôles de cette savoureuse comédie horrifique lancée le 3 février sur Netflix. Premiers avis sur Santa Clarita Diet.</b></p></blockquote>",
           "_styles": {
             "P": {
               "font-family": "'Raleway', sans-serif",
